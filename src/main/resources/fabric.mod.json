@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "ffnature",
+  "id": "forfaitednature",
   "version": "0.0.1",
 
   "name": "Forfaited Nature",
   "description": "I'm going to do it someday :)",
   "authors": [
-    "Ancient Modders"
+    "Ancient Studio"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
-  "license": "MIT License",
+  "license": "MIT",
   "icon": "assets/forfaitednature/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.ancientmodders.forfaitednature.ForfaitedNature"
+      "com.ancientstudio.forfaitednature.ForfaitedNature"
     ]
   },
   "mixins": [
