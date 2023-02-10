@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "forfaitednature",
+  "id": "forfeitednature",
   "version": "0.0.1",
 
-  "name": "Forfaited Nature",
+  "name": "Forfeited Nature",
   "description": "I'm going to do it someday :)",
   "authors": [
     "Ancient Studio"
@@ -14,16 +14,16 @@
   },
 
   "license": "MIT",
-  "icon": "assets/forfaitednature/icon.png",
+  "icon": "assets/forfeitednature/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.ancientstudio.forfaitednature.ForfaitedNature"
+      "com.ancientstudio.forfeitednature.ForfeitedNature"
     ]
   },
   "mixins": [
-    "forfaitednature.mixins.json"
+    "forfeitednature.mixins.json"
   ],
 
   "depends": {

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "forfeitednature:block/raw_magnesium_block"
+  }
+}
