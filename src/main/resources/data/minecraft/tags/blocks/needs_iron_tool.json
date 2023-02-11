@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "forfeitednature:deepslate_magnesium_ore",
+    "forfeitednature:magnesium_ore",
+    "forfeitednature:magnesium_block",
+    "forfeitednature:raw_magnesium_block"
+  ]
+}

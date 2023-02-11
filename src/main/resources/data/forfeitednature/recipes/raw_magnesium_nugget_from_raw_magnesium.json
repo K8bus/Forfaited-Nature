@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forfeitednature:raw_magnesium"
+    }
+  ],
+  "result": {
+    "item": "forfeitednature:raw_magnesium_nugget",
+    "count": 9
+  }
+}
